@@ -11,12 +11,12 @@ My home infrastructure is based on Dell and HPE servers, running vCenter, and wi
 ### :hammer_and_wrench: What I use:
 
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/vsphere/vsphere-original.svg" title="vSphere" alt="vSphere" width="45" height="45"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/vsphere/vsphere-original.svg" title="vSphere" alt="vSphere" width="45" height="45"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/portainer/portainer-original.svg" title="Portainer" alt="Portainer" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/rancher/rancher-original.svg" title="Rancher" alt="Rancher" width="50" height="50"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/k3os/k3os-original.svg" title="k3os" alt="k3os" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/icons/portainer/portainer-original.svg" title="Portainer" alt="Portainer" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/icons/rancher/rancher-original.svg" title="Rancher" alt="Rancher" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/icons/k3os/k3os-original.svg" title="k3os" alt="k3os" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/packer/packer-original.svg" title="Packer" alt="Packer" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
